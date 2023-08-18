@@ -17,7 +17,7 @@ original class
 class allocated by the clustering algorithm
 
 ### b) The world indicators dataset compares different countries based on selected attributes. <br/>
-"[world_indicators.csv](Datasets/World_Indicators.csv)"
+[world_indicators.csv](Datasets/World_Indicators.csv)
 
 1. Using K-means and hierarchical clustering methods to group similar countries
 together
