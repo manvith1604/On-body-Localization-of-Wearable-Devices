@@ -1,6 +1,6 @@
 # On-body-Localization-of-Wearable-Devices
 
-## Project - 1
+## Project - 1 
 
 Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
 
