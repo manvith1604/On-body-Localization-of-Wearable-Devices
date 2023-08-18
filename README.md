@@ -2,10 +2,11 @@
 
 ## Project - 1 
 
-Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
+a) Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
 
-There are 8 datasets : "Data1.csv”, “Data2.csv”, “Data3.csv”, “Data4.csv”, “Data5.csv”, “Data6.csv”,
-“Data7.csv”, “Data8.csv"
+There are 8 datasets : 
+"Data1.csv”, “Data2.csv”, “Data3.csv”, “Data4.csv”, 
+“Data5.csv”, “Data6.csv”, “Data7.csv”, “Data8.csv"
 
 1. Using K-means and hierarchical clustering methods to generate clusters
 2. Evaluating the performance of the clustering algorithm using external validation
@@ -15,7 +16,8 @@ original class
 4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
 class allocated by the clustering algorithm
 
-The world indicators dataset compares different countries based on selected attributes. "world_indicators.csv"
+b) The world indicators dataset compares different countries based on selected attributes. 
+"world_indicators.csv"
 
 1. Using K-means and hierarchical clustering methods to group similar countries
 together
