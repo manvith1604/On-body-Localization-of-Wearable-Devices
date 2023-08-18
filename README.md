@@ -4,7 +4,7 @@
 
 a) Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
 
-There are 8 datasets : 
+There are 8 datasets : <br/>
 "Data1.csv”, “Data2.csv”, “Data3.csv”, “Data4.csv”,<br/>
 “Data5.csv”, “Data6.csv”, “Data7.csv”, “Data8.csv"
 
