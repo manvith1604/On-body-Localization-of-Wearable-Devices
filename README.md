@@ -27,7 +27,7 @@ countries included within the groups
 4. Generating three different scatter plots of your choice and color the data points
 according to the group. Example: “Life expectancy vs GDP”, “Infant Mortality vs
 GDP”, etc.
-
+ 
 ## Project - 2
 
 The following [link](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) provides human activity data for 15 subjects. Click on each subject to
