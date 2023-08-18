@@ -5,8 +5,8 @@
 ### a) Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
 
 There are 8 datasets : <br/>
-"[Data1.csv](Datasets/Data1.csv)”, “[Data2.csv](Datasets/Data2.csv)”, “[Data3.csv](Datasets/Data3.csv)”, “[Data4.csv](Datasets/Data4.csv)”,<br/>
-“[Data5.csv](Datasets/Data5.csv)”, “[Data6.csv](Datasets/Data6.csv)”, “[Data7.csv](Datasets/Data7.csv)”, “[Data8.csv](Datasets/Data8.csv)"
+ [Data1.csv](Datasets/Data1.csv) ,  [Data2.csv](Datasets/Data2.csv) ,  [Data3.csv](Datasets/Data3.csv) ,  [Data4.csv](Datasets/Data4.csv) ,<br/>
+ [Data5.csv](Datasets/Data5.csv) ,  [Data6.csv](Datasets/Data6.csv) ,  [Data7.csv](Datasets/Data7.csv) ,  [Data8.csv](Datasets/Data8.csv) 
 
 1. Using K-means and hierarchical clustering methods to generate clusters
 2. Evaluating the performance of the clustering algorithm using external validation
