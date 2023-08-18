@@ -51,9 +51,9 @@ signal and each method (HVH and NVG))
 ### Task 2
 1. Compute permutation entropy and complexity for the aforementioned data.
 Consider the accelerometer data in all three directions
-2. Varying the following parameters
-Embedded Dimension 3, 4, 5, 6
-Embedded Delay 1, 2, 3
+2. Varying the following parameters<br/>
+Embedded Dimension 3, 4, 5, 6<br/>
+Embedded Delay 1, 2, 3<br/>
 Signal length 1024, 2048, 4096
 3. Generating scatter plots: permutation entropy vs complexity and coloring the points
 according to walking and running (for signal length =4096, embedded delay = 1,
