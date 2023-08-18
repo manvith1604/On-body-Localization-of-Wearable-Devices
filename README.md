@@ -30,7 +30,7 @@ GDP”, etc.
 
 ## Project - 2
 
-The following [link]([url](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/)) provides human activity data for 15 subjects. Click on each subject to
+The following [link](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) provides human activity data for 15 subjects. Click on each subject to
 access the time series data. For this project consider accelerometer data for all the 15
 subjects for walking, running, climbing up and climbing down
 Task 1
