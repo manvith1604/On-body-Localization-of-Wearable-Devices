@@ -22,7 +22,7 @@ class allocated by the clustering algorithm
 1. Using K-means and hierarchical clustering methods to group similar countries
 together
 2. Using Internal validation metrics to report the cluster quality 
-3. Reporting the best clustering solution. Giving a detailed list of all the groups and the
+3. Reporting the best clustering solution. Giving a detailed list of all the groups and the 
 countries included within the groups
 4. Generating three different scatter plots of your choice and color the data points
 according to the group. Example: “Life expectancy vs GDP”, “Infant Mortality vs
