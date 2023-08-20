@@ -13,7 +13,7 @@ There are 8 datasets : <br/>
 metrics
 3. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
 original class
-4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
+4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the 
 class allocated by the clustering algorithm
 
 ### b) The world indicators dataset compares different countries based on selected attributes. <br/>
