@@ -47,7 +47,7 @@ each method (HVH and NVG))
 6. Generating scatter plots: average degree vs network diameter and coloring the points
 according to climbing up and climbing down (do this for each accelerometer
 signal and each method (HVH and NVG))
-
+ 
 ### Task 2
 1. Compute permutation entropy and complexity for the aforementioned data.
 Consider the accelerometer data in all three directions
