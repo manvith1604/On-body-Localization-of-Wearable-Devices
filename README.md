@@ -50,7 +50,7 @@ signal and each method (HVH and NVG))
  
 ### Task 2
 1. Compute permutation entropy and complexity for the aforementioned data.
-Consider the accelerometer data in all three directions
+Consider the accelerometer data in all three directions 
 2. Varying the following parameters<br/>
 Embedded Dimension 3, 4, 5, 6<br/>
 Embedded Delay 1, 2, 3<br/>
