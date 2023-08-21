@@ -12,7 +12,7 @@ There are 8 datasets : <br/>
 2. Evaluating the performance of the clustering algorithm using external validation
 metrics
 3. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
-original class
+original class 
 4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the 
 class allocated by the clustering algorithm
 
