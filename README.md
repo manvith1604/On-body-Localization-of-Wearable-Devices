@@ -6,12 +6,13 @@
 
 The data set covers acceleration, GPS, gyroscope, light, magnetic field, and sound level data of the activities climbing stairs down and up, jumping, lying, standing, sitting, running/jogging, and walking of fifteen subjects (age 31.9±12.4, height 173.1±6.9, weight 74.1±13.8, eight males and seven females). For each activity, we recorded simultaneously the acceleration of the body positions chest, forearm, head, shin, thigh, upper arm, and waist. Each subject performed each activity roughly 10 minutes except for jumping due to the physical exertion (~1.7 minutes). Concerning male and female, the amount of data is equally distributed. Each movement was recorded by a video camera to facilitate the usage.
 
-15 Subjects
-6 Sensors
-Video recordings
-7 Body positions (Walking, Running, Sitting, Standing, lying, Stairs Up, Stairs Down, Jumping)
+15 Subjects<br/>
+6 Sensors<br/>
+Video recordings<br/>
+7 Body positions (Walking, Running, Sitting, Standing, lying, Stairs Up, Stairs Down, Jumping)<br/>
  
-8 datasets : <br/>
+Considering accelerometer data for all the 15 subjects for walking, running, climbing up and climbing down. <br/>
+Datasets : <br/>
  [Data1.csv](Datasets/Data1.csv) ,  [Data2.csv](Datasets/Data2.csv) ,  [Data3.csv](Datasets/Data3.csv) ,  [Data4.csv](Datasets/Data4.csv) ,<br/>
  [Data5.csv](Datasets/Data5.csv) ,  [Data6.csv](Datasets/Data6.csv) ,  [Data7.csv](Datasets/Data7.csv) ,  [Data8.csv](Datasets/Data8.csv) 
 
