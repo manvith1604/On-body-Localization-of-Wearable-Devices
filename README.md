@@ -1,10 +1,10 @@
 # On-body-Localization-of-Wearable-Devices
  
-## Project - 1 
+## Project - 1
 
-### a) Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
-
-The data set covers acceleration, GPS, gyroscope, light, magnetic field, and sound level data of the activities climbing stairs down and up, jumping, lying, standing, sitting, running/jogging, and walking of fifteen subjects (age 31.9±12.4, height 173.1±6.9, weight 74.1±13.8, eight males and seven females). For each activity, we recorded simultaneously the acceleration of the body positions chest, forearm, head, shin, thigh, upper arm, and waist. Each subject performed each activity roughly 10 minutes except for jumping due to the physical exertion (~1.7 minutes). Concerning male and female, the amount of data is equally distributed. Each movement was recorded by a video camera to facilitate the usage.
+The following [link](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) provides human activity data for 15 subjects. Click on each subject to
+access the time series data. For this project consider accelerometer data for all the 15
+subjects for walking, running, climbing up and climbing down. The data set covers acceleration, GPS, gyroscope, light, magnetic field, and sound level data of the activities climbing stairs down and up, jumping, lying, standing, sitting, running/jogging, and walking of fifteen subjects (age 31.9±12.4, height 173.1±6.9, weight 74.1±13.8, eight males and seven females). For each activity, we recorded simultaneously the acceleration of the body positions chest, forearm, head, shin, thigh, upper arm, and waist. Each subject performed each activity roughly 10 minutes except for jumping due to the physical exertion (~1.7 minutes). Concerning male and female, the amount of data is equally distributed. Each movement was recorded by a video camera to facilitate the usage.
 
 15 Subjects<br/> 
 6 Sensors<br/>
@@ -12,35 +12,6 @@ Video recordings<br/>
 7 Body positions (Walking, Running, Sitting, Standing, lying, Stairs Up, Stairs Down, Jumping)<br/>
  
 Considering accelerometer data for all the 15 subjects for walking, running, climbing up and climbing down. <br/>
-Datasets : <br/>
- [Data1.csv](Datasets/Data1.csv) ,  [Data2.csv](Datasets/Data2.csv) ,  [Data3.csv](Datasets/Data3.csv) ,  [Data4.csv](Datasets/Data4.csv) ,<br/>
- [Data5.csv](Datasets/Data5.csv) ,  [Data6.csv](Datasets/Data6.csv) ,  [Data7.csv](Datasets/Data7.csv) ,  [Data8.csv](Datasets/Data8.csv) 
-
-1. Using K-means and hierarchical clustering methods to generate clusters
-2. Evaluating the performance of the clustering algorithm using external validation
-metrics
-3. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
-original class 
-4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the 
-class allocated by the clustering algorithm
-
-### b) The world indicators dataset compares different countries based on selected attributes. <br/>
-[world_indicators.csv](Datasets/World_Indicators.csv)
-
-1. Using K-means and hierarchical clustering methods to group similar countries
-together
-2. Using Internal validation metrics to report the cluster quality 
-3. Reporting the best clustering solution. Giving a detailed list of all the groups and the 
-countries included within the groups
-4. Generating three different scatter plots of your choice and color the data points
-according to the group. Example: “Life expectancy vs GDP”, “Infant Mortality vs
-GDP”, etc.
- 
-## Project - 2
-
-The following [link](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) provides human activity data for 15 subjects. Click on each subject to
-access the time series data. For this project consider accelerometer data for all the 15
-subjects for walking, running, climbing up and climbing down
 
 ### Task 1
 1. Applying natural visibility graph (NVG) and horizontal visibility graph (HVG) to the
@@ -70,3 +41,31 @@ and embedded dimension = 3, 4, 5, 6, and all three accelerometer directions)
 according to climbing up and climbing down (for signal length =4096, embedded
 delay = 1, and embedded dimension = 3, 4, 5, 6, all three accelerometer
 directions)
+
+## Project - 2
+
+### a) Implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques
+
+Datasets : <br/>
+ [Data1.csv](Datasets/Data1.csv) ,  [Data2.csv](Datasets/Data2.csv) ,  [Data3.csv](Datasets/Data3.csv) ,  [Data4.csv](Datasets/Data4.csv) ,<br/>
+ [Data5.csv](Datasets/Data5.csv) ,  [Data6.csv](Datasets/Data6.csv) ,  [Data7.csv](Datasets/Data7.csv) ,  [Data8.csv](Datasets/Data8.csv) 
+
+1. Using K-means and hierarchical clustering methods to generate clusters
+2. Evaluating the performance of the clustering algorithm using external validation
+metrics
+3. Plotting (2D or 3D) the data points for each dataset and coloring them according to the
+original class 
+4. Plotting (2D or 3D) the data points for each dataset and coloring them according to the 
+class allocated by the clustering algorithm
+
+### b) The world indicators dataset compares different countries based on selected attributes. <br/>
+[world_indicators.csv](Datasets/World_Indicators.csv)
+
+1. Using K-means and hierarchical clustering methods to group similar countries
+together
+2. Using Internal validation metrics to report the cluster quality 
+3. Reporting the best clustering solution. Giving a detailed list of all the groups and the 
+countries included within the groups
+4. Generating three different scatter plots of your choice and color the data points
+according to the group. Example: “Life expectancy vs GDP”, “Infant Mortality vs
+GDP”, etc.
